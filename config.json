@@ -1,0 +1,4 @@
+{
+  "num_bots": 5,
+  "starting_tor_list": ["https://ident.me"]
+}
