@@ -1,4 +1,5 @@
 {
   "num_bots": 5,
-  "starting_tor_list": ["https://ident.me"]
+  "starting_tor_list": ["https://thehiddenwiki.org/"],
+  "subdomains": false
 }
